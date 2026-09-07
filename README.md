@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+End-to-End+Machine+Learning+Projects;Exploring+Generative+AI+%26+Large+Language+Models;Learning+Deep+Learning+%26+Computer+Vision;Building+AI-Powered+Applications;Sharpening+DSA+for+Software+Placements;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+End-to-End+Machine+Learning+Projects;Exploring+Generative+AI+%26+Large+Language+Models;Learning+Deep+Learning+%26+Computer+Vision;Building+AI-Powered+Applications;Sharpening+DSA+for+Placements;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -14,17 +14,30 @@
   <img src="https://img.shields.io/github/stars/gireeshpatgar17?label=Stars&style=flat&color=yellow"/>
 </p>
 
+---
+
+## 🐍 My Contribution Snake
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpatgar17/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpatgar17/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpat17/output/github-contribution-grid-snake.svg"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpat17/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpat17/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpat17/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
 🎓 Engineering student passionate about **Artificial Intelligence & Machine Learning**
 
@@ -42,34 +55,45 @@
 
 ---
 
-## 🧠 What I'm Currently Learning
+# 🧠 Currently Learning
 
-* 🤖 Machine Learning & Deep Learning
-* 🧠 Neural Networks and Model Optimization
+* 🤖 Machine Learning
+* 🧠 Deep Learning
 * 👁️ Computer Vision
 * 💬 Natural Language Processing
-* ✨ Generative AI & Large Language Models
-* 🔗 LangChain & RAG Applications
-* 🧩 AI Agents & Tool Calling
+* ✨ Generative AI
+* 🧩 Large Language Models
+* 🔗 LangChain & RAG
+* 🤖 AI Agents
 * 💾 Vector Databases
-* 🌐 Backend Development & REST APIs
+* 🌐 Backend Development
 * 📊 Data Structures & Algorithms
-* ☁️ ML Deployment & MLOps
+* ☁️ Cloud & ML Deployment
+* ⚙️ MLOps
 
 ---
 
-## 🚀 Areas of Interest
+# 🚀 Areas of Interest
 
 <p align="center">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LLMs](https://img.shields.io/badge/Large%20Language%20Models-6A5ACD?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LLMs-6A5ACD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MLOps-0A66C2?style=for-the-badge"/>
 
 </p>
 
@@ -81,111 +105,159 @@
 
 <p align="left">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
 
-## 🤖 Machine Learning & Data Science
+---
+
+## 📊 Data Science & Machine Learning
 
 <p align="left">
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 
 </p>
 
-## 🧠 Deep Learning
+---
+
+## 🧠 Deep Learning & Computer Vision
 
 <p align="left">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
 
 </p>
+
+---
 
 ## ✨ Generative AI & LLMs
 
 <p align="left">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 
 </p>
+
+---
 
 ## 🔗 AI Engineering
 
 <p align="left">
 
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-006400?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge)
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge"/>
 
 </p>
+
+---
 
 ## 🌐 Web & Backend Development
 
 <p align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </p>
+
+---
 
 ## 🗄️ Databases
 
 <p align="left">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </p>
 
-## ☁️ Cloud, DevOps & Deployment
+---
+
+## ☁️ Cloud, DevOps & Tools
 
 <p align="left">
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 
-## 📊 Data Visualization & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<p align="left">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
@@ -194,53 +266,61 @@
 # 🛠️ What I Build
 
 ```text
-📊 Machine Learning
-   ├── Classification
-   ├── Regression
-   ├── Clustering
-   ├── Feature Engineering
-   └── Model Evaluation
-
-🧠 Deep Learning
-   ├── Neural Networks
-   ├── CNNs
-   ├── Computer Vision
-   └── Transfer Learning
-
-✨ Generative AI
-   ├── LLM Applications
-   ├── RAG Systems
-   ├── AI Chatbots
-   ├── AI Agents
-   └── Prompt Engineering
-
-🌐 AI Engineering
-   ├── REST APIs
-   ├── Model Deployment
-   ├── Vector Databases
-   └── End-to-End AI Applications
+╔══════════════════════════════════════════════════════╗
+║                 🤖 ARTIFICIAL INTELLIGENCE           ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  📊 Machine Learning                                 ║
+║     ├── Classification                               ║
+║     ├── Regression                                   ║
+║     ├── Clustering                                   ║
+║     ├── Feature Engineering                          ║
+║     └── Model Evaluation                             ║
+║                                                      ║
+║  🧠 Deep Learning                                    ║
+║     ├── Neural Networks                              ║
+║     ├── CNNs                                         ║
+║     ├── Computer Vision                              ║
+║     └── Transfer Learning                            ║
+║                                                      ║
+║  ✨ Generative AI                                    ║
+║     ├── LLM Applications                             ║
+║     ├── RAG Systems                                  ║
+║     ├── AI Chatbots                                  ║
+║     ├── AI Agents                                   ║
+║     └── Prompt Engineering                           ║
+║                                                      ║
+║  🌐 AI Engineering                                   ║
+║     ├── REST APIs                                    ║
+║     ├── Model Deployment                             ║
+║     ├── Vector Databases                             ║
+║     └── End-to-End AI Applications                   ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
 # 📌 Featured Projects
 
-> 🚧 Currently building and improving projects in **Machine Learning, Generative AI, Computer Vision and Software Development.**
+> 🚧 I'm continuously building projects in **Machine Learning, Generative AI, Computer Vision and Software Development.**
 
-### 🤖 Machine Learning Projects
+### 🤖 Machine Learning
 
 * 📊 End-to-End ML Prediction Systems
 * 🔍 Classification & Regression Projects
 * 🧹 Data Cleaning & Feature Engineering
-* 📈 Exploratory Data Analysis & Visualization
+* 📈 Exploratory Data Analysis
+* 🎯 Model Evaluation & Optimization
 
-### 🧠 AI / GenAI Projects
+### 🧠 Artificial Intelligence
 
 * 💬 AI Chatbots
 * 📚 RAG-based Question Answering Systems
 * 🧠 LLM-powered Applications
-* 🔗 LangChain Projects
-* 🤖 AI Agent Applications
+* 🔗 LangChain Applications
+* 🤖 AI Agent Systems
+* 👁️ Computer Vision Applications
 
 ### 💻 Software Development
 
@@ -256,7 +336,9 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/gireeshpatgar17/">
+
 <img src="https://img.shields.io/badge/LeetCode-Solving%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 </p>
@@ -271,23 +353,34 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gireeshpatgar17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshpatgar17&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gireeshpatgar17&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gireeshpatgar17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshpatgar17&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=gireeshpatgar17&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -295,7 +388,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gireeshpatgar17&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gireeshpatgar17&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
@@ -305,15 +400,21 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://leetcode.com/u/gireeshpatgar17/">
+
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
+
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
