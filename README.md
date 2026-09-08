@@ -139,24 +139,6 @@
 
 ---
 
-## 🧠 Deep Learning & Computer Vision
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
-
-</p>
-
----
-
 ## ✨ Generative AI & LLMs
 
 <p align="left">
@@ -221,47 +203,8 @@
 
 ---
 
-## 🗄️ Databases
 
-<p align="left">
 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-</p>
-
----
-
-## ☁️ Cloud, DevOps & Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
-
----
 
 # 🛠️ What I Build
 
@@ -313,24 +256,6 @@
 * 📈 Exploratory Data Analysis
 * 🎯 Model Evaluation & Optimization
 
-### 🧠 Artificial Intelligence
-
-* 💬 AI Chatbots
-* 📚 RAG-based Question Answering Systems
-* 🧠 LLM-powered Applications
-* 🔗 LangChain Applications
-* 🤖 AI Agent Systems
-* 👁️ Computer Vision Applications
-
-### 💻 Software Development
-
-* 🌐 Full-Stack Applications
-* 🔌 REST APIs
-* 📱 Backend Services
-* 🗄️ Database-driven Applications
-
----
-
 # 🧩 Coding & Problem Solving
 
 <p align="center">
@@ -370,26 +295,6 @@
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=gireeshpatgar17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gireeshpatgar17&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
