@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gireesh Patgar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Gireesh Patgar</h1>
 
 <h3 align="center">
   🤖 AI/ML Enthusiast • 💻 Software Developer • 🚀 GenAI Explorer
@@ -330,4 +330,4 @@
 
 <p align="center">
   ⭐ If you find my projects interesting, consider giving them a star!
-</p>
+</p> -->
