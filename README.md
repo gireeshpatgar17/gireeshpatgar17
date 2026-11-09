@@ -1,23 +1,124 @@
-# Gireesh Sadanand Patgar
+# Hi 👋, I'm Gireesh Sadanand Patgar
 
-**AI/ML and software development enthusiast building practical applications.**
+<h3 align="center">AI & ML Engineering Student | Machine Learning Enthusiast | Software Developer from India 🇮🇳</h3>
 
-I’m an engineering student interested in machine learning, deep learning, generative AI, computer vision, and full-stack development. I enjoy taking ideas from data or prototype through to a working application.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=750&lines=Building+Practical+AI%2FML+Applications;Exploring+Generative+AI+%26+Deep+Learning;Developing+Real-World+Software+Solutions;Sharpening+DSA+Skills+with+C%2B%2B;Learning%2C+Building+%26+Growing+Every+Day+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
-## Selected projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gireeshpatgar17&label=Profile%20Views&color=ff4b91&style=flat"/>
+  <img src="https://img.shields.io/github/followers/gireeshpatgar17?label=Followers&style=flat&color=9b59b6"/>
+</p>
 
-| Project | Description |
-|---|---|
-| [NammaTrip AI](https://github.com/gireeshpatgar17/NammaTrip-AI) | Karnataka itinerary planner with a Streamlit interface and optional AI-assisted planning. |
-| [GlucoTwin](https://github.com/gireeshpatgar17/GlucoTwin) | Synthetic-data glucose forecasting and digital twin dashboard prototype. |
-| [Crop Disease Detection](https://github.com/gireeshpatgar17/Crop_Disease_Detection) | Flutter and FastAPI rice-leaf classification prototype. |
-| [Vision Transformer on CIFAR-10](https://github.com/gireeshpatgar17/Vision_Transformer_using_Cifar_10) | From-scratch PyTorch Vision Transformer notebook. |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpatgar17/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpatgar17/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpatgar17/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
-## Areas of interest
+---
 
-Machine learning · Deep learning · Generative AI · AI agents · Computer vision · Backend development · Data structures and algorithms
+## 💫 About Me
 
-## Find me
+- 🎓 Pursuing B.E. in Computer Science – Artificial Intelligence & Machine Learning.
+- 🔭 Building practical AI/ML applications and software development projects.
+- 🌱 Exploring Machine Learning, Deep Learning, Computer Vision and Generative AI.
+- 💻 Practising Data Structures and Algorithms using C++.
+- 🚀 Participating in hackathons and building solutions to real-world problems.
+- 🎯 Interested in AI/ML Engineering and Software Development.
 
-- [GitHub projects](https://github.com/gireeshpatgar17?tab=repositories)
-- [LeetCode](https://leetcode.com/u/gireeshpatgar17/)
+## 🎓 Education
+
+**The National Institute of Engineering (NIE), Mysuru, Karnataka**
+
+- Degree: Bachelor of Engineering
+- Branch: Computer Science and Engineering – Artificial Intelligence & Machine Learning
+- CGPA: 8.7 (as previously reported)
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/gireesh-patgar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gireeshpatgar.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/gireeshpatgar17">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-00A86B?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge" alt="DSA"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gireeshpatgar17&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshpatgar17&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gireeshpatgar17&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=redical&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gireeshpatgar17&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Building. Learning. Innovating. ✨</b>
+</p>
+
+<p align="center">
+  <i>"Great things are built one project at a time."</i>
+</p>
