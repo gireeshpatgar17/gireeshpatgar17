@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gireesh Sadanand Patgar
 
-<h3 align="center">AI & ML Engineering Student | Machine Learning Enthusiast | Software Developer from India</h3>
+<h3 align="center">AI & ML Engineering Student | Machine Learning Enthusiast | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=750&lines=Building+Practical+AI%2FML+Applications;Exploring+Generative+AI+%26+Deep+Learning;Developing+Real-World+Software+Solutions;Sharpening+DSA+Skills+with+C%2B%2B;Exploring+Agentic+AI+%26+LLMs" alt="Typing SVG"/>
