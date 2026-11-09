@@ -1,5 +1,4 @@
-
-name: Generate Contribution Snake
+name: Generate Profile Visualizations
 
 on:
   schedule:
@@ -9,24 +8,35 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
-      - name: Generate snake animation
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: gireeshpatgar17
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake animation
+      - name: Generate 60-day activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: gireeshpatgar17
+          options: theme=react-dark&days=60&area=true&hide_border=true&height=300
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish all profile visuals
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
