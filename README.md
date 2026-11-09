@@ -105,17 +105,14 @@
   />
 </p>
 
-<!-- GitHub Activity Graph - Last 60 Days -->
+<!-- GitHub Activity Graph - Generated and hosted in this repository -->
 <p align="center">
-  <a href="https://github.com/gireeshpatgar17">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=react-dark&days=60&area=true&hide_border=true"
-      alt="GitHub Activity Graph - Last 60 Days"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/gireeshpatgar17/gireeshpatgar17/output/activity-graph.svg"
+    alt="GitHub Activity Graph - Last 60 Days"
+    width="100%"
+  />
 </p>
-
 
 ---
 
