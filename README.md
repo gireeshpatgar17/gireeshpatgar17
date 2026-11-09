@@ -88,24 +88,34 @@
 
 ## 📊 GitHub Statistics
 
-
+<!-- Top Languages -->
 <p align="center">
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api?username=gireeshpatgar17&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"/>
-
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gireeshpatgar17&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gireeshpatgar17&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=450"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
+<!-- GitHub Contribution Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gireeshpatgar17&theme=radical&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=gireeshpatgar17&theme=radical&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
+<!-- GitHub Activity Graph - Last 60 Days -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=react-dark&days=60&hide_border=true" alt="GitHub Activity - Last 60 Days"/>
+  <a href="https://github.com/gireeshpatgar17">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshpatgar17&theme=react-dark&days=60&area=true&hide_border=true"
+      alt="GitHub Activity Graph - Last 60 Days"
+      width="100%"
+    />
+  </a>
 </p>
+
 
 ---
 
